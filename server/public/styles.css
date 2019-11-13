@@ -1,0 +1,13 @@
+.image {
+    max-height: 15rem;
+
+}
+
+
+li {
+    margin: 0.3rem;
+}
+
+.no-bullet {
+    list-style-type: none;
+}
